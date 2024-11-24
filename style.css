@@ -1,7 +1,12 @@
 body {
-  background-color: cornflowerblue;
+  background-color: rgb(23, 0, 0);
 }
 
-div {
-  background-color: rgb(135, 244, 208);
+.center-strip {
+  width: 60%; /* You can adjust the width as needed */
+  padding: 20px;
+  background-color: rgb(21, 211, 0);
+  text-align: center;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
