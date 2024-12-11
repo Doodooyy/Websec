@@ -3,7 +3,7 @@ body {
 }
 
 .center-strip {
-  width: 60%; /* You can adjust the width as needed */
+  width: 60%; 
   padding: 20px;
   background-color: rgb(21, 211, 0);
   text-align: center;
